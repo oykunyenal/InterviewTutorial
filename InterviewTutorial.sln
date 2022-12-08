@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTutorial.ClassStruct", "InterviewTutorial.ClassStruct\InterviewTutorial.ClassStruct.csproj", "{7C94D795-377B-4448-9BE6-BAEC81E2092C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTutorial.ClassStruct", "InterviewTutorial.ClassStruct\InterviewTutorial.ClassStruct.csproj", "{7C94D795-377B-4448-9BE6-BAEC81E2092C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTutorial.BoxingUnboxing", "InterviewTutorial.BoxingUnboxing\InterviewTutorial.BoxingUnboxing.csproj", "{575C9637-7C05-456B-9690-0E6F57252FA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7C94D795-377B-4448-9BE6-BAEC81E2092C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C94D795-377B-4448-9BE6-BAEC81E2092C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C94D795-377B-4448-9BE6-BAEC81E2092C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575C9637-7C05-456B-9690-0E6F57252FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575C9637-7C05-456B-9690-0E6F57252FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575C9637-7C05-456B-9690-0E6F57252FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575C9637-7C05-456B-9690-0E6F57252FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
