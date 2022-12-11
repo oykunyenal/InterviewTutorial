@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTutorial.ClassStruct", "InterviewTutorial.ClassStruct\InterviewTutorial.ClassStruct.csproj", "{7C94D795-377B-4448-9BE6-BAEC81E2092C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTutorial.BoxingUnboxing", "InterviewTutorial.BoxingUnboxing\InterviewTutorial.BoxingUnboxing.csproj", "{575C9637-7C05-456B-9690-0E6F57252FA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTutorial.BoxingUnboxing", "InterviewTutorial.BoxingUnboxing\InterviewTutorial.BoxingUnboxing.csproj", "{575C9637-7C05-456B-9690-0E6F57252FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverviewTutorial.FuncActionEventDelegate", "InverviewTutorial.FuncActionEventDelegate\InverviewTutorial.FuncActionEventDelegate.csproj", "{218725B4-C259-47D9-AAF0-B43ADA1DE391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{575C9637-7C05-456B-9690-0E6F57252FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{575C9637-7C05-456B-9690-0E6F57252FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{575C9637-7C05-456B-9690-0E6F57252FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218725B4-C259-47D9-AAF0-B43ADA1DE391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218725B4-C259-47D9-AAF0-B43ADA1DE391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218725B4-C259-47D9-AAF0-B43ADA1DE391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218725B4-C259-47D9-AAF0-B43ADA1DE391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
